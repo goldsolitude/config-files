@@ -1,7 +1,7 @@
 # Config Files
 
 ## /microsoft-insider-rainmeter
-different rainmeter widgets that i'd use to fake confidential or build watermark.
+different [rainmeter](https://www.rainmeter.net) app widgets that i'd use to fake confidential or build watermark.
 ### microsoft-confidential-rainmeter.ini
 Fake microsoft confidential watermark! 
 ### windows-version-rainmeter.ini
